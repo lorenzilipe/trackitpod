@@ -3,5 +3,6 @@
 .piolibdeps/
 .vscode/
 **/.DS_Store
+Icon[[:cntrl:]]
 *.pyc
 __pycache__/
